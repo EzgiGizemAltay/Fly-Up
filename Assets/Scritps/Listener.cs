@@ -1,0 +1,1 @@
+public delegate void Listener<in TEvent>(TEvent e);
